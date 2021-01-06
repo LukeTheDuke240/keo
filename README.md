@@ -1,4 +1,6 @@
 # Krunker Editor Offline
+# CURRENTLY NON-FUNCTIONAL
+# HELP NEEDED
 A fully functional offline version of the krunker editor. For this to work you need to download this file: https://assets.krunker.io/mod.zip?v=3.3.7 and extract the folders "models" and "textures" into the directory. If you want to save space, you can delete textures\weapons, which is just 400MB of weapon textures
 
 TODO: 
